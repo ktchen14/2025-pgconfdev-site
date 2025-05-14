@@ -1,0 +1,6 @@
+name = "2025-pgconfdev-site"
+compatibility_date = "2025-05-14"
+preview_urls = true
+
+[assets]
+directory = "./site"
